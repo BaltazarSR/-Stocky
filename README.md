@@ -24,22 +24,23 @@ To run the program, you need:
 
 1. Clone the repository to your local machine:
     ```bash
-    git clone https://github.com/your-username/stocky.git
+            
+    git clone https://github.com/BaltazarSR/-Stocky.git
     ```
 
 2. Navigate to the project directory:
     ```bash
-    cd stocky
+    cd Stocky
     ```
 
 3. Compile the C++ source file:
     ```bash
-    g++ main.cpp -o stocky
+    g++ main.cpp -o Stocky
     ```
 
 4. Run the program:
     ```bash
-    ./stocky
+    ./Stocky
     ```
 
 ## How to Use
